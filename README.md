@@ -24,6 +24,13 @@ My tools for automating [Beancount][beancount-home].
 - Bank of America PDF Credit Statement Importer
 - Chase PDF Statement Importer
 
+#### Known Issues
+
+- Unable to recognize account number automatically.
+- Unable to set the year correctly.
+- Need to implement a formal way to extract / set file date.
+- Need to implement a common interface.
+
 ### Venmo Importers
 
 - Venmo CSV Importer
