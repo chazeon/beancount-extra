@@ -20,8 +20,8 @@ My tools for automating [Beancount][beancount-home].
 
 #### List of Importers
 
-- Bank of America PDF Deposite Statement Importer
-- Bank of America PDF Credit Statement Importer
+- Bank of America PDF Deposit Statement Importer
+- Bank of America PDF Credit Card Statement Importer
 - Chase PDF Statement Importer
 
 #### Known Issues
