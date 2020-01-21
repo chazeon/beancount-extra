@@ -39,7 +39,7 @@ My tools for automating [Beancount][beancount-home].
 
 - Plain text accounting [in general][plaintextaccounting-org]
 - Beancount's [official documentation][official-doc] an its [unofficial take][generated-doc]
-- Source code on [GitHub][beancount-github] and [Bitbucket][beancount-bitbucket]
+- Source code on [Bitbucket][beancount-bitbucket]
 
 [plaintextaccounting-org]: https://plaintextaccounting.org
 [official-doc]: http://furius.ca/beancount/doc/index
