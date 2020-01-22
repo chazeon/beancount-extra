@@ -11,7 +11,7 @@ My tools for automating [Beancount][beancount-home].
 #### Motivation
 
 - <b>Why do you need to import from PDF statements?</b>
-  <br>Banks normally will only allow me to export OFX files within a limited time span (1-2 yrs) and the narriations provided in the OFX format is usually truncated. However, PDF statements is always archived and you the narrations are detailed.
+  <br>Banks normally will only allow me to export OFX files within a limited time span (1-2 yrs) and the narriations provided in the OFX format is usually truncated. However, PDF statements are usually archived and downloadable and the narrations are usually complete.
 
 - <b>Which PDF table processing library do you use?</b>
    <br>I use [Camelot][camelot-docs]. Camelot uses PDFMiner. Camelot allows the cumbersome job of PDF processing to be largely automated.
