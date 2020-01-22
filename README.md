@@ -31,6 +31,10 @@ My tools for automating [Beancount][beancount-home].
 - Need to implement a formal way to extract / set file date.
 - Need to implement a common interface.
 
+#### Dependencies
+
+- Camelot and its dependencies
+
 ### Venmo Importers
 
 - Venmo CSV Importer
@@ -39,7 +43,7 @@ My tools for automating [Beancount][beancount-home].
 
 - Plain text accounting [in general][plaintextaccounting-org]
 - Beancount's [official documentation][official-doc] an its [unofficial take][generated-doc]
-- Source code on [Bitbucket][beancount-bitbucket]
+- Beancount source code on [Bitbucket][beancount-bitbucket]
 
 [plaintextaccounting-org]: https://plaintextaccounting.org
 [official-doc]: http://furius.ca/beancount/doc/index
