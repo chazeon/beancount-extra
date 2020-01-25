@@ -14,9 +14,11 @@ My tools for automating [Beancount][beancount-home].
   <br>Banks normally will only allow me to export OFX files within a limited time span (1-2 yrs) and the narriations provided in the OFX format is usually truncated. However, PDF statements are usually archived and downloadable and the narrations are usually complete.
 
 - <b>Which PDF table processing library do you use?</b>
-   <br>I use [Camelot][camelot-docs]. Camelot uses PDFMiner. Camelot allows the cumbersome job of PDF processing to be largely automated.
+   <br>I use [Camelot][camelot-docs]. Camelot uses PDFMiner. Camelot allows the cumbersome job of PDF processing to be largely automated. Although Camelot claim to be the [best table extraction][camelot-table-extraction-comparison] tool and it indeed is, its code is difficult to be used externally. I am hoping to use Camelot by the side of [PDFQuery].
 
 [camelot-docs]: https://camelot-py.readthedocs.io/en/master/
+[camelot-table-extraction-comparison]: https://github.com/camelot-dev/camelot/wiki/Comparison-with-other-PDF-Table-Extraction-libraries-and-tools
+[PDFQuery]: https://github.com/jcushman/pdfquery
 
 #### List of Importers
 
