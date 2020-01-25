@@ -2,7 +2,7 @@ from beancount.ingest import regression_pytest
 import pathlib
 from . import ChaseStatementPDFImporter
 
-importer = ChaseStatementPDFImporter("Asset:US:BofA:Checking")
+importer = ChaseStatementPDFImporter("Liabilities:US:BofA:CashRewards")
 directory = pathlib.Path(__file__).parent / "sample"
 
 @regression_pytest.with_importer(importer)
