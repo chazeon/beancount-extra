@@ -41,7 +41,7 @@ My tools for automating [Beancount][beancount-home].
 
 - Venmo CSV Importer
 
-### Amazon Importers
+### [Amazon Importers](./importers/amazon/README.md)
 
 - Amazon Retail Order History CSV Importer
 
