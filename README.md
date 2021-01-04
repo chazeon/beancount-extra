@@ -45,6 +45,10 @@ My tools for automating [Beancount][beancount-home].
 
 - Amazon Retail Order History CSV Importer
 
+### [CashApp Importers]
+
+- Cash App CSV importers
+
 ## Additional Resources
 
 - Plain text accounting [in general][plaintextaccounting-org]
