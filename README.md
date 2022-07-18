@@ -25,6 +25,7 @@ My tools for automating [Beancount][beancount-home].
 - Bank of America PDF Deposit Statement Importer
 - Bank of America PDF Credit Card Statement Importer
 - Chase PDF Statement Importer
+- Apple iTunes Order Scraper and Importer
 
 #### Known Issues
 
